@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Smooth delayed floors and Chvátal–Gomory closures: verification code"
+authors:
+  - family-names: Mirjalili
+    given-names: Reza
+  - family-names: Lim
+    given-names: Gino J.
+license: MIT
+repository-code: "https://github.com/rezamirjaliliphd/delayed-floor-cg-closures"
